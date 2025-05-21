@@ -1,0 +1,57 @@
+Project Title : Universal Billing and Accounts Receivable (UBAR) System
+
+Project Description : The UBAR (Universal Billing and Accounts Receivable) system is a web-based platform designed to help healthcare organizations manage their billing and payments more efficiently. It simplifies the process of tracking medical charges, generating bills, receiving payments, and keeping records organized. UBAR ensures that everything is done correctly and on time, making it easier for staff to manage financial operations.
+                      Main Features and Modules:
+
+1. Billing : This module helps create and manage bills for medical services provided to patients.
+
+    Charges :
+            Review Charges : Check if the charges are correct before billing.
+            Charge Capture : Enter charges for medical services provided to patients.
+    Bills : 
+            Create Bill (Given Protocol): Create a bill based on preset guidelines and protocols.
+            Create Bill (All Charges)   :Generate a bill that includes all charges for a patient’s visit or treatment.
+
+    Search Bills : Find previously created bills quickly for tracking or updates.
+
+2. A/R (Accounts Receivable) : This section helps manage payments, track outstanding balances, and follow up on overdue bills.
+
+    Receive Payment : Process payments made by patients or insurance companies.
+    Adjustments     : Make corrections to a patient’s account, like discounts or billing errors.
+    Collections     : Track overdue payments and follow up to collect the amount due.
+
+    
+3. Reports : This section generates reports to help the organization track financial performance and identify areas for improvement.
+
+  Bill Service Report     : Provides a summary of services provided and the related bills.
+	Billing Plan Report     : Generates a report on different billing plans used within the organization. It helps track the details of different payer plans and ensure correct billing based on the plan selected for a patient.
+  Aging Report            : Shows how long payments are overdue, helping to manage collections.
+  Payment Analysis Report : Reviews payment histories and trends to help improve the billing process.
+	Payer Account Ledger    : Tracks payments and balances for each payer, like insurance companies.
+
+
+4. Maintenance : This section allows administrators to manage and configure the system for smooth operation.
+
+  User Management     : Set up and manage user roles and permissions to control access to the system.
+	WorkList Scheduling : Organize and assign tasks to team members to keep work flowing smoothly.
+	Patient             : Manage patient information and billing records.
+  Service Type        : Set up different types of medical services for accurate billing.
+  Payer               : Manage information about insurance companies and other payers.
+  Pharmacy            : Track pharmacy-related charges and billing.
+  Plan                : Set up payer plans to manage billing for different insurance plans.
+  CDM (Charge Description Master): Keep a list of all the services and procedures that can be billed.
+  Specialty           : Manage billing codes for different medical specialties.
+	Billing Provider    : Set up and maintain information about billing providers.
+	Bill Generation Rules : Create rules for how bills are generated based on services provided.
+	Accounts              : Manage accounts for patients and payers to track payments. 
+	Code List             : Keep a list of medical codes used for billing, like ICD and CPT codes.
+	Notification          : Set up alerts for important billing events, reminders, or system updates.
+	Service Master     : Keep track of all the services offered by the healthcare organization for billing purposes.
+
+  My Work Area : A personalized space for users to quickly access the most important tasks.
+
+System Access :
+    UBAR is a web-based system, which means it can be accessed online from any computer or device connected to the network. Users can log in securely and perform their tasks from anywhere within the organization.
+	
+Conclusion :
+    The UBAR system makes it easier for healthcare organizations to manage their billing, payments, and reports. By combining all the important tasks in one platform, UBAR improves efficiency, reduces errors, and helps ensure that the organization gets paid on time. It’s a complete solution for managing the financial side of healthcare operations.
